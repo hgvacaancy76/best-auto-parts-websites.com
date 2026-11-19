@@ -1,0 +1,1110 @@
+{
+  "stores": [
+    {
+      "slug": "cars245",
+      "name": "Cars245",
+      "url": "https://cars245.com/",
+      "position": 1,
+      "card": {
+        "summary": "Cars245 is an online car parts store with an EU warehouse in Riga and worldwide shipping through DHL, UPS, FedEx, USPS and EMS. The catalog holds more than 4 million parts searchable by OEM part number.",
+        "best_for": "Best for buyers outside the US who know the OEM number.",
+        "strength": "Per its FAQ, in-stock items marked Ready to ship take \"approximately 24 hours\" to be handled and shipped. Payment works by PayPal, Visa, Mastercard or Maestro, and support replies within 1 working day.",
+        "limitation": "Buyers outside the EU may pay import duties, and delivery time varies. Returns need approval within 14 days, parts must be new and unused, and the buyer pays return shipping. Trustpilot shows 4.3 of 5 across 116 reviews."
+      },
+      "criteria": {
+        "ships_to": {
+          "value": "Worldwide, via DHL, UPS, FedEx, USPS and EMS",
+          "source_url": "https://cars245.com/en/about-us/",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "delivery_time": {
+          "value": "In stock, Ready to ship: handled and shipped in approximately 24 hours; varies by country",
+          "source_url": "https://cars245.com/en/faq/",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "delivery_cost": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "catalog_size": {
+          "value": "More than 4 million parts",
+          "source_url": "https://cars245.com/",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "part_number_search": {
+          "value": "Yes, by OEM part number",
+          "source_url": "https://cars245.com/",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "oem_aftermarket": {
+          "value": "OEM parts and aftermarket analogues",
+          "source_url": "https://cars245.com/en/about-us/",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "returns": {
+          "value": "14 days after approval; buyer pays return shipping; new, unused, original packaging",
+          "source_url": "https://cars245.com/en/return-and-refund-policy/",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "payment": {
+          "value": "PayPal, Visa, Mastercard, Maestro",
+          "source_url": "https://cars245.com/en/about-us/",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "import_duties": {
+          "value": "Buyers outside the EU may pay import duties",
+          "source_url": "https://cars245.com/en/about-us/",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        }
+      },
+      "countries": {
+        "us": {
+          "status": "ships",
+          "value": "Worldwide shipping stated; confirm at checkout",
+          "source_url": "https://cars245.com/en/about-us/",
+          "as_of": "2026-11-18"
+        },
+        "uk": {
+          "status": "ships",
+          "value": "Worldwide shipping stated; confirm at checkout",
+          "source_url": "https://cars245.com/en/about-us/",
+          "as_of": "2026-11-18"
+        },
+        "canada": {
+          "status": "ships",
+          "value": "Worldwide shipping stated; confirm at checkout",
+          "source_url": "https://cars245.com/en/about-us/",
+          "as_of": "2026-11-18"
+        },
+        "australia": {
+          "status": "ships",
+          "value": "Worldwide shipping stated; confirm at checkout",
+          "source_url": "https://cars245.com/en/about-us/",
+          "as_of": "2026-11-18"
+        },
+        "israel": {
+          "status": "ships",
+          "value": "Worldwide shipping stated; confirm at checkout",
+          "source_url": "https://cars245.com/en/about-us/",
+          "as_of": "2026-11-18"
+        }
+      },
+      "rating": {
+        "platform": "Trustpilot",
+        "listed": true,
+        "score": "4.3",
+        "count": "116",
+        "as_of": "2026-11-13",
+        "url": "https://www.trustpilot.com/review/cars245.com"
+      }
+    },
+    {
+      "slug": "rockauto",
+      "name": "RockAuto",
+      "url": "https://www.rockauto.com/",
+      "position": 2,
+      "card": {
+        "summary": "RockAuto is an online parts catalog that, per its help page, ships everywhere in the world unless prohibited by law. Shipping quotes appear after you enter a country and postal code.",
+        "best_for": "Best for buyers who already know the part they need and want a worldwide option.",
+        "strength": "Orders generally ship within one business day, and the store collects named taxes such as GST, HST or VAT, plus duties and brokerage fees, when the order is placed. Payment works by cards, PayPal, Sezzle or wire transfer.",
+        "limitation": "Returns are accepted within 30 days for the part price, shipping charges are not refundable unless the return is its mistake, and duties cannot be refunded. Trustpilot shows 1.8 of 5 across 3,506 reviews."
+      },
+      "criteria": {
+        "ships_to": {
+          "value": "Everywhere in the world unless prohibited by law",
+          "source_url": "https://www.rockauto.com/help/?page=3",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "delivery_time": {
+          "value": "Orders generally ship within one business day; Receive-by dates are estimates",
+          "source_url": "https://www.rockauto.com/help/?page=3",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "delivery_cost": {
+          "value": "Based on size, weight, location and carrier rates; quote shown after you enter country and postal code",
+          "source_url": "https://www.rockauto.com/help/?page=3",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "catalog_size": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "part_number_search": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "oem_aftermarket": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "returns": {
+          "value": "30 days for a refund of the part price; shipping not refundable unless the store erred; buyer generally pays return shipping",
+          "source_url": "https://www.rockauto.com/help/?page=4",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "payment": {
+          "value": "Visa, Mastercard, American Express, Discover, Diners Club, PayPal, Sezzle, wire transfer",
+          "source_url": "https://www.rockauto.com/help/?page=3",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "import_duties": {
+          "value": "Collects named taxes (GST/HST, VAT), duties and brokerage fees at order; duties not refundable on returns",
+          "source_url": "https://www.rockauto.com/help/?page=3",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        }
+      },
+      "countries": {
+        "us": {
+          "status": "ships",
+          "value": "Ships everywhere in the world unless prohibited by law",
+          "source_url": "https://www.rockauto.com/help/?page=3",
+          "as_of": "2026-11-18"
+        },
+        "uk": {
+          "status": "ships",
+          "value": "Ships everywhere in the world unless prohibited by law",
+          "source_url": "https://www.rockauto.com/help/?page=3",
+          "as_of": "2026-11-18"
+        },
+        "canada": {
+          "status": "ships",
+          "value": "Ships everywhere in the world unless prohibited by law",
+          "source_url": "https://www.rockauto.com/help/?page=3",
+          "as_of": "2026-11-18"
+        },
+        "australia": {
+          "status": "ships",
+          "value": "Ships everywhere in the world unless prohibited by law",
+          "source_url": "https://www.rockauto.com/help/?page=3",
+          "as_of": "2026-11-18"
+        },
+        "israel": {
+          "status": "ships",
+          "value": "Ships everywhere in the world unless prohibited by law",
+          "source_url": "https://www.rockauto.com/help/?page=3",
+          "as_of": "2026-11-18"
+        }
+      },
+      "rating": {
+        "platform": "Trustpilot",
+        "listed": true,
+        "score": "1.8",
+        "count": "3,506",
+        "as_of": "2026-11-18",
+        "url": "https://www.trustpilot.com/review/rockauto.com"
+      }
+    },
+    {
+      "slug": "carparts-com",
+      "name": "CarParts.com",
+      "url": "https://www.carparts.com/",
+      "position": 3,
+      "card": {
+        "summary": "CarParts.com is an online store that states it ships only within the continental United States. Buyers outside that area cannot order directly and would need a package forwarder or another store.",
+        "best_for": "Best for US buyers who want many payment options.",
+        "strength": "The store's FAQ lists payment by Visa, Mastercard, American Express, Discover, PayPal, Apple Pay, Google Pay and Zip. Its return policy, as quoted in a Better Business Bureau response, requires returns within 30 days of delivery.",
+        "limitation": "No international delivery is offered, and the FAQ gives no shipping times. Core returns have a 60 day window and need an RMA number, with return shipping paid by the buyer. Trustpilot shows 3.8 of 5 across 27,008 reviews."
+      },
+      "criteria": {
+        "ships_to": {
+          "value": "Continental United States only",
+          "source_url": "https://www.carparts.com/company/faq",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "delivery_time": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "delivery_cost": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "catalog_size": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "part_number_search": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "oem_aftermarket": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "returns": {
+          "value": "30 days from delivery for most items (policy as quoted by BBB); core returns within 60 days",
+          "source_url": "https://prod.bbb.org/us/ca/torrance/profile/new-auto-parts/carpartscom-inc-1216-13122751/complaints",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "payment": {
+          "value": "Visa, Mastercard, American Express, Discover, PayPal, Apple Pay, Google Pay, Zip",
+          "source_url": "https://www.carparts.com/company/faq",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "import_duties": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        }
+      },
+      "countries": {
+        "us": {
+          "status": "ships",
+          "value": "Continental United States",
+          "source_url": "https://www.carparts.com/company/faq",
+          "as_of": "2026-11-18"
+        },
+        "uk": {
+          "status": "does_not_ship",
+          "value": "Ships only within the continental United States",
+          "source_url": "https://www.carparts.com/company/faq",
+          "as_of": "2026-11-18"
+        },
+        "canada": {
+          "status": "does_not_ship",
+          "value": "Ships only within the continental United States",
+          "source_url": "https://www.carparts.com/company/faq",
+          "as_of": "2026-11-18"
+        },
+        "australia": {
+          "status": "does_not_ship",
+          "value": "Ships only within the continental United States",
+          "source_url": "https://www.carparts.com/company/faq",
+          "as_of": "2026-11-18"
+        },
+        "israel": {
+          "status": "does_not_ship",
+          "value": "Ships only within the continental United States",
+          "source_url": "https://www.carparts.com/company/faq",
+          "as_of": "2026-11-18"
+        }
+      },
+      "rating": {
+        "platform": "Trustpilot",
+        "listed": true,
+        "score": "3.8",
+        "count": "27,008",
+        "as_of": "2026-11-18",
+        "url": "https://www.trustpilot.com/review/carparts.com"
+      }
+    },
+    {
+      "slug": "partsgeek",
+      "name": "PartsGeek",
+      "url": "https://www.partsgeek.com/",
+      "position": 4,
+      "card": {
+        "summary": "PartsGeek is an online store that states more than 10 million auto parts and a selection of OEM, stock replacement or aftermarket parts. Its homepage describes shipping from locations throughout the United States.",
+        "best_for": "Best for US buyers who want a wide catalog and a clear 30 day return window.",
+        "strength": "Returns are accepted within 30 days of purchase with a return authorization number, and many product listings show free ground shipping.",
+        "limitation": "Items must be new, unused and in original packaging, electrical parts are not returnable, and the customer pays return shipping unless stated otherwise. Check shipping and payment at checkout before ordering, and compare the total. Trustpilot shows 3.6 of 5 across 176,215 reviews."
+      },
+      "criteria": {
+        "ships_to": {
+          "value": "Shipping from US locations; international shipping not stated",
+          "source_url": "https://www.partsgeek.com/",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "delivery_time": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "delivery_cost": {
+          "value": "Free ground shipping shown on many product listings; varies by item",
+          "source_url": "https://www.partsgeek.com/",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "catalog_size": {
+          "value": "More than 10 million auto parts",
+          "source_url": "https://www.partsgeek.com/",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "part_number_search": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "oem_aftermarket": {
+          "value": "OEM, stock replacement or aftermarket",
+          "source_url": "https://www.partsgeek.com/",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "returns": {
+          "value": "30 days from purchase; RMA required; new, unused, original packaging; customer pays return shipping unless stated",
+          "source_url": "https://www.partsgeek.com/return-policy.html",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "payment": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "import_duties": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        }
+      },
+      "countries": {
+        "us": {
+          "status": "ships",
+          "value": "Ships from US locations",
+          "source_url": "https://www.partsgeek.com/",
+          "as_of": "2026-11-18"
+        },
+        "uk": {
+          "status": "not_stated",
+          "value": "International shipping not stated",
+          "source_url": "https://www.partsgeek.com/",
+          "as_of": "2026-11-18"
+        },
+        "canada": {
+          "status": "not_stated",
+          "value": "International shipping not stated",
+          "source_url": "https://www.partsgeek.com/",
+          "as_of": "2026-11-18"
+        },
+        "australia": {
+          "status": "not_stated",
+          "value": "International shipping not stated",
+          "source_url": "https://www.partsgeek.com/",
+          "as_of": "2026-11-18"
+        },
+        "israel": {
+          "status": "not_stated",
+          "value": "International shipping not stated",
+          "source_url": "https://www.partsgeek.com/",
+          "as_of": "2026-11-18"
+        }
+      },
+      "rating": {
+        "platform": "Trustpilot",
+        "listed": true,
+        "score": "3.6",
+        "count": "176,215",
+        "as_of": "2026-11-18",
+        "url": "https://www.trustpilot.com/review/www.partsgeek.com"
+      }
+    },
+    {
+      "slug": "autodoc",
+      "name": "Autodoc",
+      "url": "https://www.autodoc.co.uk/",
+      "position": 5,
+      "card": {
+        "summary": "Autodoc is a European online store whose UK site lists Great Britain, the Isle of Man, Jersey, Guernsey and a long list of European countries on its delivery page. It does not list the US, Canada, Australia or Israel.",
+        "best_for": "Best for buyers in Great Britain and Europe who want published delivery thresholds.",
+        "strength": "In-stock items are sent within 1 to 2 working days after payment. Delivery in Great Britain costs £8.45 below £140 and is free from £140. Payment works by PayPal, bank card or bank transfer.",
+        "limitation": "Returns allow 14 days from delivery, and the paid Safe Order option extends that to 200 days. Marketplace orders are delivered within the UK only. Trustpilot shows 4.1 of 5 across 20,052 reviews."
+      },
+      "criteria": {
+        "ships_to": {
+          "value": "Great Britain, Isle of Man, Jersey, Guernsey and listed European countries",
+          "source_url": "https://www.autodoc.co.uk/services/shipping",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "delivery_time": {
+          "value": "In-stock items sent within 1-2 working days after payment",
+          "source_url": "https://www.autodoc.co.uk/services/shipping",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "delivery_cost": {
+          "value": "Great Britain: £8.45 below £140, free from £140",
+          "source_url": "https://www.autodoc.co.uk/services/shipping",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "catalog_size": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "part_number_search": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "oem_aftermarket": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "returns": {
+          "value": "14 days from delivery; paid Safe Order option extends to 200 days",
+          "source_url": "https://help.autodoc.co.uk/categories/11/238/1903",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "payment": {
+          "value": "PayPal, bank card, bank transfer (United Kingdom)",
+          "source_url": "https://help.autodoc.co.uk/categories/8/243/685",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "import_duties": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        }
+      },
+      "countries": {
+        "us": {
+          "status": "not_stated",
+          "value": "Not on the store's delivery country list",
+          "source_url": "https://www.autodoc.co.uk/services/shipping",
+          "as_of": "2026-11-18"
+        },
+        "uk": {
+          "status": "ships",
+          "value": "Great Britain delivery listed",
+          "source_url": "https://www.autodoc.co.uk/services/shipping",
+          "as_of": "2026-11-18"
+        },
+        "canada": {
+          "status": "not_stated",
+          "value": "Not on the store's delivery country list",
+          "source_url": "https://www.autodoc.co.uk/services/shipping",
+          "as_of": "2026-11-18"
+        },
+        "australia": {
+          "status": "not_stated",
+          "value": "Not on the store's delivery country list",
+          "source_url": "https://www.autodoc.co.uk/services/shipping",
+          "as_of": "2026-11-18"
+        },
+        "israel": {
+          "status": "not_stated",
+          "value": "Not on the store's delivery country list",
+          "source_url": "https://www.autodoc.co.uk/services/shipping",
+          "as_of": "2026-11-18"
+        }
+      },
+      "rating": {
+        "platform": "Trustpilot",
+        "listed": true,
+        "score": "4.1",
+        "count": "20,052",
+        "as_of": "2026-11-18",
+        "url": "https://www.trustpilot.com/review/autodoc.co.uk"
+      }
+    },
+    {
+      "slug": "fcp-euro",
+      "name": "FCP Euro",
+      "url": "https://www.fcpeuro.com/",
+      "position": 6,
+      "card": {
+        "summary": "FCP Euro sells European car parts and offers international shipping through carriers, with costs calculated live from weight, size and destination. The store says it cannot ship directly to Brazil.",
+        "best_for": "Best for owners of European cars who want a long return window.",
+        "strength": "US orders over $49 ship free, per the store. Transit takes a week in most cases and two to three weeks to some countries, according to the store. Returns can be requested within 90 days through its portal.",
+        "limitation": "Taxes and duties are not prepaid and are set by the carrier on delivery. The customer pays return shipping unless the store states otherwise. Trustpilot shows 4.6 of 5 across 2,097 reviews."
+      },
+      "criteria": {
+        "ships_to": {
+          "value": "International shipping offered; country list not confirmed; Brazil not served directly",
+          "source_url": "https://help.fcpeuro.com/hc/en-us/articles/360020908412-International-Shipping-taxes-duties-cost-and-carriers",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "delivery_time": {
+          "value": "A week in most cases, two to three weeks to some countries",
+          "source_url": "https://www.fcpeuro.com/page/free-shipping",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "delivery_cost": {
+          "value": "Live calculation by weight, size, conversion rate and destination; US orders over $49 ship free",
+          "source_url": "https://help.fcpeuro.com/hc/en-us/articles/360020908412-International-Shipping-taxes-duties-cost-and-carriers",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "catalog_size": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "part_number_search": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "oem_aftermarket": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "returns": {
+          "value": "90 days via return portal; customer pays return shipping; store credit possible",
+          "source_url": "https://www.fcpeuro.com/page/return-policy",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "payment": {
+          "value": "PayPal accepted; full list not confirmed",
+          "source_url": "https://help.fcpeuro.com/hc/en-us/articles/360021209431-Can-you-ship-to-an-address-other-than-the-one-on-my-credit-card-billing-statement",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "import_duties": {
+          "value": "Not prepaid; taxes and duties set by the carrier on delivery",
+          "source_url": "https://help.fcpeuro.com/hc/en-us/articles/360020908412-International-Shipping-taxes-duties-cost-and-carriers",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        }
+      },
+      "countries": {
+        "us": {
+          "status": "ships",
+          "value": "US shipping, free over $49",
+          "source_url": "https://www.fcpeuro.com/page/free-shipping",
+          "as_of": "2026-11-18"
+        },
+        "uk": {
+          "status": "not_stated",
+          "value": "International shipping offered; this country not confirmed",
+          "source_url": "https://help.fcpeuro.com/hc/en-us/articles/360020908412-International-Shipping-taxes-duties-cost-and-carriers",
+          "as_of": "2026-11-18"
+        },
+        "canada": {
+          "status": "not_stated",
+          "value": "International shipping offered; this country not confirmed",
+          "source_url": "https://help.fcpeuro.com/hc/en-us/articles/360020908412-International-Shipping-taxes-duties-cost-and-carriers",
+          "as_of": "2026-11-18"
+        },
+        "australia": {
+          "status": "not_stated",
+          "value": "International shipping offered; this country not confirmed",
+          "source_url": "https://help.fcpeuro.com/hc/en-us/articles/360020908412-International-Shipping-taxes-duties-cost-and-carriers",
+          "as_of": "2026-11-18"
+        },
+        "israel": {
+          "status": "not_stated",
+          "value": "International shipping offered; this country not confirmed",
+          "source_url": "https://help.fcpeuro.com/hc/en-us/articles/360020908412-International-Shipping-taxes-duties-cost-and-carriers",
+          "as_of": "2026-11-18"
+        }
+      },
+      "rating": {
+        "platform": "Trustpilot",
+        "listed": true,
+        "score": "4.6",
+        "count": "2,097",
+        "as_of": "2026-11-18",
+        "url": "https://www.trustpilot.com/review/fcpeuro.com"
+      }
+    },
+    {
+      "slug": "napa",
+      "name": "NAPA Auto Parts",
+      "url": "https://www.napaonline.com/",
+      "position": 7,
+      "card": {
+        "summary": "NAPA Auto Parts sells online through NAPAonline and ships to all US states, but not to US territories. Buyers can also pick up orders in store or use same-day delivery from participating stores.",
+        "best_for": "Best for US buyers who want store pickup or free one-day shipping.",
+        "strength": "Free one-day shipping applies to in-stock orders of $49 or more in the contiguous US in most markets, and standard ground shipping typically takes 2 to 5 business days. Ship-to-home items can be returned free through UPS within 30 days.",
+        "limitation": "No international delivery is stated, and batteries must be returned to a store. Payment for pickup and same-day delivery is by credit card, AfterPay or PayPal. Trustpilot shows 1.7 of 5 across 290 reviews."
+      },
+      "criteria": {
+        "ships_to": {
+          "value": "All US states; not US territories",
+          "source_url": "https://www.napaonline.com/en/shipping-information",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "delivery_time": {
+          "value": "Standard ground typically 2-5 business days; orders before 3 p.m. ET on weekdays processed the same day",
+          "source_url": "https://www.napaonline.com/en/shipping-information",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "delivery_cost": {
+          "value": "Free one-day shipping on in-stock orders of $49 or more in the contiguous US in most markets; charges shown at checkout",
+          "source_url": "https://www.napaonline.com/en/shipping-information",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "catalog_size": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "part_number_search": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "oem_aftermarket": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "returns": {
+          "value": "30 days from receipt; ship-to-home items returned free via UPS; batteries to a store",
+          "source_url": "https://www.napaonline.com/en/returns",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "payment": {
+          "value": "Credit card, AfterPay or PayPal for pickup and same-day delivery",
+          "source_url": "https://www.napaonline.com/en/shipping-information",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "import_duties": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        }
+      },
+      "countries": {
+        "us": {
+          "status": "ships",
+          "value": "All US states",
+          "source_url": "https://www.napaonline.com/en/shipping-information",
+          "as_of": "2026-11-18"
+        },
+        "uk": {
+          "status": "not_stated",
+          "value": "Shipping page lists US states only",
+          "source_url": "https://www.napaonline.com/en/shipping-information",
+          "as_of": "2026-11-18"
+        },
+        "canada": {
+          "status": "not_stated",
+          "value": "Shipping page lists US states only",
+          "source_url": "https://www.napaonline.com/en/shipping-information",
+          "as_of": "2026-11-18"
+        },
+        "australia": {
+          "status": "not_stated",
+          "value": "Shipping page lists US states only",
+          "source_url": "https://www.napaonline.com/en/shipping-information",
+          "as_of": "2026-11-18"
+        },
+        "israel": {
+          "status": "not_stated",
+          "value": "Shipping page lists US states only",
+          "source_url": "https://www.napaonline.com/en/shipping-information",
+          "as_of": "2026-11-18"
+        }
+      },
+      "rating": {
+        "platform": "Trustpilot",
+        "listed": true,
+        "score": "1.7",
+        "count": "290",
+        "as_of": "2026-11-18",
+        "url": "https://www.trustpilot.com/review/napaonline.com"
+      }
+    },
+    {
+      "slug": "autozone",
+      "name": "AutoZone",
+      "url": "https://www.autozone.com/",
+      "position": 8,
+      "card": {
+        "summary": "AutoZone sells parts online for ship to home and in-store pickup, and a Capital One guide names it among parts store chains with those options. Buyers can start from the vehicle or from the VIN.",
+        "best_for": "Best for US buyers who want to pick up a part in a store the same day.",
+        "strength": "The site offers a VIN decoder that determines year, make, model and engine for fitment, and promotes free next day delivery on eligible ship-to-home items.",
+        "limitation": "Read the Online Return Policy in its terms before ordering, and confirm that the part you need can be shipped to your address and is not pickup only. Trustpilot shows 2.5 of 5 across 595 reviews."
+      },
+      "criteria": {
+        "ships_to": {
+          "value": "Ship to home and in-store pickup offered; countries not confirmed",
+          "source_url": "https://www.capitalone.com/cars/learn/getting-a-good-deal/where-to-buy-car-parts-rockauto-vs-amazon-vs-ebay-vs-dealers-vs-parts-stores/1953",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "delivery_time": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "delivery_cost": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "catalog_size": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "part_number_search": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "oem_aftermarket": {
+          "value": "Parts and accessories for ship to home and in-store pickup",
+          "source_url": "https://www.capitalone.com/cars/learn/getting-a-good-deal/where-to-buy-car-parts-rockauto-vs-amazon-vs-ebay-vs-dealers-vs-parts-stores/1953",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "returns": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "payment": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "import_duties": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        }
+      },
+      "countries": {
+        "us": {
+          "status": "ships",
+          "value": "Ship to home offered in the United States",
+          "source_url": "https://www.capitalone.com/cars/learn/getting-a-good-deal/where-to-buy-car-parts-rockauto-vs-amazon-vs-ebay-vs-dealers-vs-parts-stores/1953",
+          "as_of": "2026-11-18"
+        },
+        "uk": {
+          "status": "not_stated",
+          "value": "Shipping page could not be read on the check date",
+          "source_url": "https://www.autozone.com/",
+          "as_of": "2026-11-18"
+        },
+        "canada": {
+          "status": "not_stated",
+          "value": "Shipping page could not be read on the check date",
+          "source_url": "https://www.autozone.com/",
+          "as_of": "2026-11-18"
+        },
+        "australia": {
+          "status": "not_stated",
+          "value": "Shipping page could not be read on the check date",
+          "source_url": "https://www.autozone.com/",
+          "as_of": "2026-11-18"
+        },
+        "israel": {
+          "status": "not_stated",
+          "value": "Shipping page could not be read on the check date",
+          "source_url": "https://www.autozone.com/",
+          "as_of": "2026-11-18"
+        }
+      },
+      "rating": {
+        "platform": "Trustpilot",
+        "listed": true,
+        "score": "2.5",
+        "count": "595",
+        "as_of": "2026-11-18",
+        "url": "https://www.trustpilot.com/review/autozone.com"
+      }
+    },
+    {
+      "slug": "oreilly-auto-parts",
+      "name": "O'Reilly Auto Parts",
+      "url": "https://www.oreillyauto.com/",
+      "position": 9,
+      "card": {
+        "summary": "O'Reilly Auto Parts ships to the 50 US states and Puerto Rico and states that it does not ship to locations outside them. Buyers can choose ship to home, same-day delivery in eligible areas or in-store pickup.",
+        "best_for": "Best for US buyers who want next-day shipping or store pickup.",
+        "strength": "Most orders of $35 or more ship free by ground, excluding core charges, and Next Day Home Shipping covers over 100,000 parts. Payment works by Visa, Mastercard, Discover, American Express, JCB, Apple Pay, Google Pay or Klarna.",
+        "limitation": "Returns are accepted within 90 days of purchase, but the customer pays all shipping costs on online returns and shipping charges are non-refundable. Trustpilot shows 2.8 of 5 across 132 reviews."
+      },
+      "criteria": {
+        "ships_to": {
+          "value": "50 United States and Puerto Rico only",
+          "source_url": "https://www.oreillyauto.com/returns",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "delivery_time": {
+          "value": "Next Day Home Shipping on over 100,000 parts; eligibility depends on cutoff time and address",
+          "source_url": "https://www.oreillyauto.com/returns",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "delivery_cost": {
+          "value": "Free ground shipping on most orders of $35 or more, excluding core charges",
+          "source_url": "https://www.oreillyauto.com/returns",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "catalog_size": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "part_number_search": {
+          "value": "Search by part number and part interchange",
+          "source_url": "https://oreillyauto.com/shop/b/performance/engines---components/983f34605abc",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "oem_aftermarket": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "returns": {
+          "value": "90 days from purchase date; customer pays shipping on online returns; shipping charges non-refundable",
+          "source_url": "https://www.oreillyauto.com/returns",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "payment": {
+          "value": "Visa, Mastercard, Discover, American Express, JCB, Apple Pay, Google Pay, gift card, Klarna",
+          "source_url": "https://www.oreillyauto.com/returns",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "import_duties": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        }
+      },
+      "countries": {
+        "us": {
+          "status": "ships",
+          "value": "50 United States and Puerto Rico",
+          "source_url": "https://www.oreillyauto.com/returns",
+          "as_of": "2026-11-18"
+        },
+        "uk": {
+          "status": "does_not_ship",
+          "value": "Does not ship outside the 50 United States and Puerto Rico",
+          "source_url": "https://www.oreillyauto.com/returns",
+          "as_of": "2026-11-18"
+        },
+        "canada": {
+          "status": "does_not_ship",
+          "value": "Does not ship outside the 50 United States and Puerto Rico",
+          "source_url": "https://www.oreillyauto.com/returns",
+          "as_of": "2026-11-18"
+        },
+        "australia": {
+          "status": "does_not_ship",
+          "value": "Does not ship outside the 50 United States and Puerto Rico",
+          "source_url": "https://www.oreillyauto.com/returns",
+          "as_of": "2026-11-18"
+        },
+        "israel": {
+          "status": "does_not_ship",
+          "value": "Does not ship outside the 50 United States and Puerto Rico",
+          "source_url": "https://www.oreillyauto.com/returns",
+          "as_of": "2026-11-18"
+        }
+      },
+      "rating": {
+        "platform": "Trustpilot",
+        "listed": true,
+        "score": "2.8",
+        "count": "132",
+        "as_of": "2026-11-18",
+        "url": "https://www.trustpilot.com/review/oreillyauto.com"
+      }
+    },
+    {
+      "slug": "advance-auto-parts",
+      "name": "Advance Auto Parts",
+      "url": "https://shop.advanceautoparts.com/",
+      "position": 10,
+      "card": {
+        "summary": "Advance Auto Parts offers ship to home and store pickup. Its pages describe standard, expedited and urgent shipping with delivery times from 1 to 4 business days.",
+        "best_for": "Best for US buyers who want a choice between standard and urgent shipping.",
+        "strength": "Standard shipping is free on orders over $35 and takes 3 to 4 business days. Expedited takes 2 to 3 business days and urgent 1 to 2 business days, priced by location and weight.",
+        "limitation": "Returns are accepted within 45 days if the item is new, unopened and uninstalled, opened gaskets and electrical goods are not returnable, and shipping charges are not refunded unless the store erred. Trustpilot shows 2.5 of 5 across 394 reviews."
+      },
+      "criteria": {
+        "ships_to": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "delivery_time": {
+          "value": "Standard 3-4 business days; expedited 2-3; urgent 1-2",
+          "source_url": "https://shop.advanceautoparts.com/o/same-day-delivery",
+          "as_of": "2026-11-18",
+          "store_claim": true
+        },
+        "delivery_cost": {
+          "value": "Standard free on orders over $35; expedited and urgent priced by location and weight",
+          "source_url": "https://shop.advanceautoparts.com/o/same-day-delivery",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "catalog_size": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "part_number_search": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "oem_aftermarket": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "returns": {
+          "value": "45 days from purchase as new, unopened and uninstalled; shipping and handling not refundable unless the store erred",
+          "source_url": "https://shop.advanceautoparts.com/o/returns",
+          "as_of": "2026-11-18",
+          "store_claim": false
+        },
+        "payment": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        },
+        "import_duties": {
+          "value": "",
+          "source_url": "",
+          "as_of": "",
+          "store_claim": false
+        }
+      },
+      "countries": {
+        "us": {
+          "status": "ships",
+          "value": "Ship to home offered in the United States",
+          "source_url": "https://shop.advanceautoparts.com/o/same-day-delivery",
+          "as_of": "2026-11-18"
+        },
+        "uk": {
+          "status": "not_stated",
+          "value": "Page does not mention shipping outside the United States",
+          "source_url": "https://shop.advanceautoparts.com/o/same-day-delivery",
+          "as_of": "2026-11-18"
+        },
+        "canada": {
+          "status": "not_stated",
+          "value": "Page does not mention shipping outside the United States",
+          "source_url": "https://shop.advanceautoparts.com/o/same-day-delivery",
+          "as_of": "2026-11-18"
+        },
+        "australia": {
+          "status": "not_stated",
+          "value": "Page does not mention shipping outside the United States",
+          "source_url": "https://shop.advanceautoparts.com/o/same-day-delivery",
+          "as_of": "2026-11-18"
+        },
+        "israel": {
+          "status": "not_stated",
+          "value": "Page does not mention shipping outside the United States",
+          "source_url": "https://shop.advanceautoparts.com/o/same-day-delivery",
+          "as_of": "2026-11-18"
+        }
+      },
+      "rating": {
+        "platform": "Trustpilot",
+        "listed": true,
+        "score": "2.5",
+        "count": "394",
+        "as_of": "2026-11-18",
+        "url": "https://www.trustpilot.com/review/advanceautoparts.com"
+      }
+    }
+  ],
+  "alternatives_extra": [
+    {
+      "slug": "amazon",
+      "name": "Amazon",
+      "url": "https://www.amazon.com/",
+      "text": "Offers a Confirmed Fit tool that checks a part against your vehicle's year, make, model, drivetrain and engine type. Listings come from many sellers, so shipping, returns and import duties differ from listing to listing. Read the seller's terms and return policy before you buy.",
+      "source_url": "https://www.capitalone.com/cars/learn/getting-a-good-deal/where-to-buy-car-parts-rockauto-vs-amazon-vs-ebay-vs-dealers-vs-parts-stores/1953",
+      "as_of": "2026-11-18"
+    },
+    {
+      "slug": "ebay-motors",
+      "name": "eBay Motors",
+      "url": "https://www.ebay.com/motors/",
+      "text": "Offers a My Garage feature for checking that a part fits your vehicle. Listings come from many sellers, so shipping, returns and import duties differ from listing to listing. Read the seller's terms and return policy before you buy.",
+      "source_url": "https://www.capitalone.com/cars/learn/getting-a-good-deal/where-to-buy-car-parts-rockauto-vs-amazon-vs-ebay-vs-dealers-vs-parts-stores/1953",
+      "as_of": "2026-11-18"
+    },
+    {
+      "slug": "partsavatar",
+      "name": "PartsAvatar",
+      "url": "https://www.partsavatar.ca/",
+      "text": "A Canadian store that states free shipping on orders over CAD $99 and shipping across Canada. That is a store claim from its services page, so confirm the shipping cost, the delivery time and the return terms at checkout before you pay for the order.",
+      "source_url": "https://partsavatar.ca/our-services",
+      "as_of": "2026-11-18"
+    }
+  ]
+}

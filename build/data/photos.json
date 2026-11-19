@@ -1,0 +1,90 @@
+{
+  "hero-audi-e-tron": {
+    "file": "images/photos/hero-audi-e-tron.webp",
+    "width": 1400,
+    "height": 719,
+    "alt": "Red Audi e-tron concept car on a dark exhibition stand",
+    "subject": "Audi e-tron concept",
+    "author": "Thomas Wolf (foto-tw.de), retouched by LiveChocolate",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Audi_e-tron_(Edit1).jpg"
+  },
+  "porsche-911": {
+    "file": "images/photos/porsche-911.webp",
+    "width": 1400,
+    "height": 726,
+    "alt": "Grey Porsche 911 Carrera 4S on a racing circuit",
+    "subject": "Porsche 911 Carrera 4S",
+    "author": "David Villarreal Fernández",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2013_Porsche_911_Carrera_4S_(991)_(9626546987).jpg"
+  },
+  "mini-engine-bay": {
+    "file": "images/photos/mini-engine-bay.webp",
+    "width": 1200,
+    "height": 673,
+    "alt": "Engine bay of a classic Mini with a red 1275 cc engine",
+    "subject": "Mini 1275 cc engine bay",
+    "author": "Acabashi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1992_Mini_Mark_VI_1275cc_engine_bay_at_Hatfield_Heath_Festival_2017.jpg"
+  },
+  "audi-sport-quattro": {
+    "file": "images/photos/audi-sport-quattro.webp",
+    "width": 1400,
+    "height": 739,
+    "alt": "Yellow Audi Sport quattro concept car at a motor show",
+    "subject": "Audi Sport quattro concept",
+    "author": "Thomas Wolf (foto-tw.de)",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Audi_Sport_quattro_concept.jpg"
+  },
+  "wolseley-engine": {
+    "file": "images/photos/wolseley-engine.webp",
+    "width": 1200,
+    "height": 673,
+    "alt": "Engine compartment of a 1959 Wolseley 1500",
+    "subject": "Wolseley 1500 engine compartment",
+    "author": "DeFacto",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wolseley_1500_-_1959_-_under-bonnet.jpg"
+  },
+  "volvo-pv544": {
+    "file": "images/photos/volvo-pv544.webp",
+    "width": 1000,
+    "height": 461,
+    "alt": "Black Volvo PV 544 parked at sunset",
+    "subject": "Volvo PV 544",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Merfeld,_Volvo_PV_544_B18_--_2021_--_0075-9.jpg"
+  },
+  "porsche-wheel": {
+    "file": "images/photos/porsche-wheel.webp",
+    "width": 1200,
+    "height": 720,
+    "alt": "Wheel and brake of a Porsche Mission E concept car",
+    "subject": "Porsche Mission E wheel",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_Mission_E,_70_Years_Porsche_Sports_Car,_Berlin_(1X7A3885).jpg"
+  },
+  "mercedes-w115": {
+    "file": "images/photos/mercedes-w115.webp",
+    "width": 1200,
+    "height": 618,
+    "alt": "White Mercedes-Benz W115 220D saloon from 1973",
+    "subject": "Mercedes-Benz W115 220D",
+    "author": "1bumer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W115_220D_(1973).jpg"
+  }
+}

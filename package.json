@@ -1,0 +1,19 @@
+{
+  "name": "best-auto-parts-websites",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bash build.sh",
+    "serve": "node serve.mjs",
+    "check": "node build/check.mjs"
+  },
+  "devDependencies": {
+    "@fontsource-variable/archivo": "^5.3.0",
+    "flag-icons": "^7.2.3",
+    "lucide-static": "^1.76.0",
+    "marked": "^18.2.1",
+    "node-html-parser": "^9.0.7",
+    "puppeteer": "^25.18.1",
+    "sharp": "^0.35.5"
+  }
+}
