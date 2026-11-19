@@ -353,10 +353,12 @@ const p404 = fs.readFileSync(r('404.html'), 'utf8');
 /<style>/.test(p404) && !/<link rel="stylesheet"/.test(p404) && p404.includes(`href="${SITE.base}"`) ? ok('404.html self-contained, absolute link to the home page') : bad('404.html not self-contained');
 // external resources in HTML/CSS
 const extRes = [];
-for (const p of pages) for (const m of p.html.matchAll(/<(?:link|script|img|source|iframe)[^>]+(?:href|src)="(https?:[^"]+)"/g)) if (!/rel="canonical"/.test(m[0])) extRes.push(`${label(p)} ${m[1]}`);
+const GTM = /<script async src="https:\/\/www\.googletagmanager\.com\/gtm\.js\?id=GTM-N4BM5P2C"><\/script>\n<script>\n  window\.dataLayer[\s\S]*?<\/script>\n/;
+for (const p of pages) for (const m of p.html.replace(GTM, '').matchAll(/<(?:link|script|img|source|iframe)[^>]+(?:href|src)="(https?:[^"]+)"/g)) if (!/rel="canonical"/.test(m[0])) extRes.push(`${label(p)} ${m[1]}`);
 for (const f of ['css/global.css', 'css/home.css', 'css/guide.css']) for (const m of fs.readFileSync(r(f), 'utf8').matchAll(/url\((["']?)(https?:[^)"']+)/g)) extRes.push(`${f} ${m[2]}`);
 extRes.length ? extRes.forEach((x) => bad(`external resource: ${x}`)) : ok('no external scripts, styles, fonts or images referenced');
-if (/<script(?![^>]*application\/ld\+json)/.test(pages.map((p) => p.html).join(''))) bad('a <script> other than JSON-LD is present'); else ok('no JavaScript on any page (JSON-LD only)');
+pages.every((p) => GTM.test(p.html)) && GTM.test(p404) ? ok('Google Tag Manager snippet on every page and 404') : bad('Google Tag Manager snippet missing on some page');
+if (/<script(?![^>]*application\/ld\+json)/.test(pages.map((p) => p.html.replace(GTM, '')).join(''))) bad('a <script> other than JSON-LD and the GTM snippet is present'); else ok('no other JavaScript (JSON-LD and GTM only)');
 
 // 12. Repository hygiene
 section('12. Repository hygiene (files that would be committed)');

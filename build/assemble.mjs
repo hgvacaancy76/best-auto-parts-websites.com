@@ -235,6 +235,12 @@ function head(page, fm, html, root) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N4BM5P2C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
 <title>${esc(fm.title)}</title>
 <meta name="description" content="${esc(fm.meta_description)}">
 <link rel="canonical" href="${url}">

@@ -30,7 +30,7 @@ for (const srv of servers) {
       const foreign = [];
       page.on('requestfinished', (req) => { const s = req.response()?.status(); if (s >= 400) bad.push(`${s} ${req.url()}`); });
       page.on('requestfailed', (req) => bad.push(`failed ${req.url()}`));
-      page.on('request', (req) => { if (!req.url().startsWith(`http://localhost:${srv.port}/`) && !req.url().startsWith('data:')) foreign.push(req.url()); });
+      page.on('request', (req) => { if (!req.url().startsWith(`http://localhost:${srv.port}/`) && !req.url().startsWith('data:') && !req.url().startsWith('https://www.googletagmanager.com/')) foreign.push(req.url()); });
       const url = srv.url + (p.slug ? `${p.slug}/` : '');
       await page.goto(url, { waitUntil: 'networkidle0' });
       // Page timers do not run with JavaScript off, so scroll from Node with Node-side pauses.
